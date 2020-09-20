@@ -11,7 +11,7 @@
         <Label 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" x:Name="lbl_main" />
-        <Button Clicked="Button_Clicked" Text="Check"></Button>
+        
     </StackLayout>
 
 </ContentPage>

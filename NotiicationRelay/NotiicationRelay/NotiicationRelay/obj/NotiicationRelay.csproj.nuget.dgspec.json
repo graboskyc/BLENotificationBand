@@ -48,6 +48,14 @@
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
+            "Plugin.BluetoothLE": {
+              "target": "Package",
+              "version": "[6.3.0.19, )"
+            },
+            "System.Runtime.InteropServices": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.3.1, )"

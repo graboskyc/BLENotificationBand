@@ -10,9 +10,10 @@ C:\Users\chris\GITHUB\BLENotificationBand\NotiicationRelay\NotiicationRelay\Noti
 C:\Users\chris\GITHUB\BLENotificationBand\NotiicationRelay\NotiicationRelay\NotiicationRelay\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\chris\GITHUB\BLENotificationBand\NotiicationRelay\NotiicationRelay\NotiicationRelay\obj\Debug\netstandard2.0\NotiicationRelay.AssemblyInfoInputs.cache
 C:\Users\chris\GITHUB\BLENotificationBand\NotiicationRelay\NotiicationRelay\NotiicationRelay\obj\Debug\netstandard2.0\NotiicationRelay.AssemblyInfo.cs
-C:\Users\chris\GITHUB\BLENotificationBand\NotiicationRelay\NotiicationRelay\NotiicationRelay\obj\Debug\netstandard2.0\NotiicationRelay.csproj.CoreCompileInputs.cache
-C:\Users\chris\GITHUB\BLENotificationBand\NotiicationRelay\NotiicationRelay\NotiicationRelay\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\chris\GITHUB\BLENotificationBand\NotiicationRelay\NotiicationRelay\NotiicationRelay\obj\Debug\netstandard2.0\NotiicationRelay.csproj.CopyComplete
 C:\Users\chris\GITHUB\BLENotificationBand\NotiicationRelay\NotiicationRelay\NotiicationRelay\obj\Debug\netstandard2.0\NotiicationRelay.dll
 C:\Users\chris\GITHUB\BLENotificationBand\NotiicationRelay\NotiicationRelay\NotiicationRelay\obj\Debug\netstandard2.0\ref\NotiicationRelay.dll
 C:\Users\chris\GITHUB\BLENotificationBand\NotiicationRelay\NotiicationRelay\NotiicationRelay\obj\Debug\netstandard2.0\NotiicationRelay.pdb
+C:\Users\chris\GITHUB\BLENotificationBand\NotiicationRelay\NotiicationRelay\NotiicationRelay\bin\Debug\netstandard2.0\Java.Interop.dll
+C:\Users\chris\GITHUB\BLENotificationBand\NotiicationRelay\NotiicationRelay\NotiicationRelay\obj\Debug\netstandard2.0\NotiicationRelay.csproj.CoreCompileInputs.cache
+C:\Users\chris\GITHUB\BLENotificationBand\NotiicationRelay\NotiicationRelay\NotiicationRelay\obj\Debug\netstandard2.0\XamlC.stamp
